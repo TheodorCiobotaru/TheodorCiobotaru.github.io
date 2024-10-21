@@ -28,9 +28,14 @@ Iata un [link][link1] catre site-ul Google
 
 Varianta prescurtata a link-urilor referentiate:
 
-Iata un link [important] catre site-ul google
+Iata un link [important] catre site-ul Google
 
 [important]: https://google.com/
+
+#### Link-uri catre imagini
+
+![text descriptiv imagine](https://metricop.com/cdn/shop/articles/trimble-total-station.jpg?v=1677673954&width=1100)
+
 
 
 
