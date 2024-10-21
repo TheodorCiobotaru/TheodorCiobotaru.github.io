@@ -1,3 +1,4 @@
+![text descriptiv imagine](https://metricop.com/cdn/shop/articles/trimble-total-station.jpg?v=1677673954&width=1100)
 # Implementarea relatiilor in Markdown
  
 ## Implementarea relatiilor/legaturilor catre alte fisiere
