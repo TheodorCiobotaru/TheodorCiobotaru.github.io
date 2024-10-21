@@ -1,4 +1,5 @@
 # Implementarea relatiilor in Markdown
+ 
 ## Implementarea relatiilor/legaturilor catre alte fisiere
 
 Fisierele accesate prin link-uri pot fi:
@@ -15,7 +16,21 @@ Tipuri de link-uri in markdown:
 
 #### Link-uri clasice
 
-[textul link-ului](www.google.com)
+**Variante:
+[textul link-ului](https://google.com/)
+[textul link-ului](https://google.com/ "accesare site google")
+
+#### Link-uri referentiate
+
+Iata un [link][link1] catre site-ul Google
+
+[link1]: https://google.com/
+
+Varianta prescurtata a link-urilor referentiate:
+
+Iata un link [important] catre site-ul google
+
+[important]: https://google.com/
 
 
 
