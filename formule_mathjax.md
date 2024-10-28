@@ -2,7 +2,7 @@
 
 ![text descriptiv imagine](https://metricop.com/cdn/shop/articles/trimble-total-station.jpg?v=1677673954&width=1100)
 
-[homepage](inedx.md)
+[Homepage](index.md)
 
 # Inserarea  ecuatiilor si formulelor `MathJax
 
